@@ -9,9 +9,10 @@
 ##  How to Cite This Repository
 
 ```bibtex
-@misc{your_repo,
-  title = {Learning Python},
-  author = {Amita Kapoor. Vrinda Tandon, Sheetal Varshney, Anamika Singh},
-  year = {2023},
-  url = {[https://github.com/nepeur/LearningPython]},
-}   
+@misc{learning_python,
+  title     = {Learning Python},
+  author    = {Amita Kapoor and Vrinda Tandon and Sheetal Varshney and Anamika Singh},
+  year      = {2023},
+  url       = {https://github.com/nepeur/LearningPython}
+}
+```  
